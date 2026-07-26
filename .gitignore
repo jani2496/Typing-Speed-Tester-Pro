@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+typing_results.db
+
+.vscode/
